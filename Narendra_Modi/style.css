@@ -40,13 +40,12 @@ img {
   background-size: cover;
   background-position: center;
   border-radius: 30px;
-  
   transition: width 0.5s ease, height 0.5s ease;
 }
 .image_container:hover,
 img:hover {
-  width: 500px;
-  height: 500px;
+  width: 350px;
+  height: 350px;
 }
 .about_section{
     margin-top: 5%;
